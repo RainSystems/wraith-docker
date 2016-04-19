@@ -1,0 +1,3 @@
+# Wraith
+
+Visual Regression Tool
